@@ -1,7 +1,8 @@
 # WakeUp
-Repository for general development of code for an ALarm System with different options
+Repository for general development of code for an Alarm System with different options
 
-#Idears
+## Ideas
+There is a feature mind-map: https://mm.tt/821154412?t=PbiCemI31L
 - easy to set up alarms via mqtt
 - easy controle of Alarm times/repetitions
 - individually adjustable Actions for each Alarm (Music/Radio/Birds /LED Strip - Sunrise)
